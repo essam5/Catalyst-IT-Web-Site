@@ -183,9 +183,9 @@ Simply upload the project files while preserving the folder structure.
 
 **Catalyst IT**
 
-📧 Email: [info@catalyst-it.com](mailto:info@catalyst-it.com)
+📧 Email: [Sales@catalystit.co.site]
 
-🌐 Website: https://www.catalyst-it.com *(Update when available)*
+🌐 Website: https://www.catalyst-it.com 
 
 ---
 
