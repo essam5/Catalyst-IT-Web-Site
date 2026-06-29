@@ -104,21 +104,6 @@ Technical leader with expertise in software architecture, project management, en
 
 ---
 
-## 📂 Project Structure
-
-```text
-project/
-│
-├── index.html
-├── README.md
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   ├── fonts/
-│   └── icons/
-└── favicon.ico
-```
 
 ---
 
@@ -192,8 +177,6 @@ Simply upload the project files while preserving the folder structure.
 ## 📄 License
 
 This project is a customized website for **Catalyst IT**.
-
-Please ensure compliance with the licenses of any third-party assets, fonts, images, or libraries included in the original template.
 
 ---
 
